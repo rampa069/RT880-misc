@@ -131,6 +131,7 @@ Some Radtel radio models have active development communities creating custom fir
 - GitHub repositories for custom Radtel firmware on other models
 - Forums discussing Radtel radio programming and customization
 - CHIRP driver development for Radtel radios
+- https://github.com/ArteryTek/AT32F423_CMSIS_Driver
 
 ## Disclaimer
 
