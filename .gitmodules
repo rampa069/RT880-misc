@@ -1,0 +1,3 @@
+[submodule "AT32F423_CMSIS_Driver"]
+	path = AT32F423_CMSIS_Driver
+	url = https://github.com/ArteryTek/AT32F423_CMSIS_Driver.git
